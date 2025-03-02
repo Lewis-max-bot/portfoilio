@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: red;
+}
+#sect-1{
+    display: flex;
+    justify-content: center;
+color: blue;
+
+}
+#sect-2{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+li{
+    color: green;
+}
+#sect-3{
+    display: flex;
+    justify-content: center;
+}
+*{
+    background-color: pink;
+}
