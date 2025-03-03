@@ -10,16 +10,16 @@ color: blue;
 }
 #sect-2{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-self: center;
 }
 li{
-    color: green;
+    color:black;
 }
 #sect-3{
     display: flex;
     justify-content: center;
 }
 *{
-    background-color: pink;
+    background-image: url(../Pasted\ image.png);
 }
